@@ -1,2 +1,27 @@
 # Expanding-Card-Widget
 This is an expanding card widget, made from Brad Traversy's 50 Projects in 50 days. 
+CODE:
+
+All of the code for this course and the demos can be found in this Github repo:
+
+https://github.com/bradtraversy/50projects50days
+
+
+
+
+
+SOCIAL MEDIA LINKS:
+
+Follow Brad Traversy:
+
+https://twitter.com/traversymedia
+
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+
+
+
+Follow Florin Pop:
+
+https://twitter.com/florinpop1705
+
+https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA
